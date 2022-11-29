@@ -1,0 +1,41 @@
+# Status Report
+
+#### Your name
+
+Sam Saporito
+
+TODO
+
+#### Your section leader's name
+
+Sam Saporito
+
+TODO
+
+#### Project title
+
+Pong with a twist
+
+TODO
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I have created the original pong game in python using pygame
+
+TODO
+
+#### What have you not done for your project yet?
+
+I will be adding a neutral cpu playeer halfway between the two players at the halfway line that is thicker than the user and other cpu. It will act as the normal cpu but it will be shooting on both goals and if it collects the ball from the top or bottom, it shoots it back out a random way. I will also be adding colors and making the ball speed slightly faster to increase the difficulty of the game.
+
+TODO
+
+#### What problems, if any, have you encountered?
+
+I have not encountered any problems yet.
+
+TODO
